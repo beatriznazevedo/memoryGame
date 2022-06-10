@@ -13,7 +13,7 @@
 ##
 
 <div align="center">
-<img src="" />
+<img src="https://user-images.githubusercontent.com/94022421/173126102-d5778dae-9595-4e7a-97b9-20ad5856078a.gif" />
 </div>
 
 <p align="center"><strong>Link</strong> para acessar o <strong>site</strong>: https://memorygame-beatriznazevedo.netlify.app/</p>
